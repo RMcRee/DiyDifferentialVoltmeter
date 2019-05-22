@@ -1,0 +1,1 @@
+Now that LTspice is part of Analog Devices, we are converting our spice netlists into LTspice models.  The op amps in your design do not currently have LTspice models available.  If you would like ADI to prioritize LTspice model generation for a particular part, please let your sales representative know or send feedback through this tool.
