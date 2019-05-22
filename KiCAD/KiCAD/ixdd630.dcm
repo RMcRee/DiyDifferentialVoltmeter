@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8428
+D Low Noise, Low Drift, G = 2000 Instr Amp
+K AD8428
+F https://www.analog.com/en/products/ad8428.html
+$ENDCMP
+#
+#End Doc Library
