@@ -1,4 +1,4 @@
-update=5/18/2019 6:47:43 PM
+update=6/17/2019 6:14:10 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=../digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols;AD5760
@@ -220,3 +210,13 @@ LibName178=C:/Users/olddesktop/Documents/digikey-kicad-library-master/digikey-ki
 LibName179=AD5760/ad5760
 LibName180=adg1413
 LibName181=C:/Users/olddesktop/Documents/digikey-kicad-library-master/MUX507IPWR/MUX507IPWR
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
