@@ -27,15 +27,15 @@ I believe that many if not most of these error sources can be characterized and 
 Any feedback and suggestions are welcome. Please be gentle.
  
 Data sheets
-opax189: [url]http://www.ti.com/product/OPA189[/url]
-AD8428: [url]https://www.analog.com/en/products/ad8428.html[/url]
-AD4625: [url]https://www.analog.com/en/products/ada4625-1.html[/url]
-DAC: [url]https://www.analog.com/en/products/ad5760.html[/url]
-Multiplexers: [url]http://www.ti.com/product/MUX507[/url]
-Switches:[url]https://www.analog.com/en/products/adg1413.html?doc=ADG1411_1412_1413.pdf[/url]
-smd 100ohm 5ppm resistors: [url]https://www.mouser.com/datasheet/2/414/PCF-1528243.pdf[/url]
-ultra-low leakage diodes: [url]https://www.mouser.com/datasheet/2/68/cmdd6001-369621.pdf[/url]
+opax189: http://www.ti.com/product/OPA189
+AD8428: https://www.analog.com/en/products/ad8428.html
+AD4625: https://www.analog.com/en/products/ada4625-1.html
+DAC: https://www.analog.com/en/products/ad5760.html
+Multiplexers: http://www.ti.com/product/MUX507
+Switches:https://www.analog.com/en/products/adg1413.html?doc=ADG1411_1412_1413.pdf
+smd 100ohm 5ppm resistors: https://www.mouser.com/datasheet/2/414/PCF-1528243.pdf
+ultra-low leakage diodes: https://www.mouser.com/datasheet/2/68/cmdd6001-369621.pdf
 
 References:
-[url]https://www.analog.com/en/analog-dialogue/articles/low-noise-inamp-nanovolt-sensitivity.html[/url]
+https://www.analog.com/en/analog-dialogue/articles/low-noise-inamp-nanovolt-sensitivity.html
 
